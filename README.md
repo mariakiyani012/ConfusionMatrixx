@@ -1,5 +1,11 @@
 # ConfusionMatrix
- import sys
+
+Depth First Search (DFS) is a fundamental graph traversal algorithm used in artificial intelligence and computer science. 
+It's a technique used to explore and navigate through the nodes of a graph or a tree data structure. 
+DFS starts at a selected node (usually the root in a tree or an arbitrary starting point in a graph) and explores as far as possible along each branch before backtracking.
+
+
+import sys
 class Node():
     def __init__(self, state, parent, action):
         self.state = state
