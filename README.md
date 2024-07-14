@@ -1,4 +1,4 @@
-# ConfusionMatrix
+# Depth First Search
 
 Depth First Search (DFS) is a fundamental graph traversal algorithm used in artificial intelligence and computer science. 
 It's a technique used to explore and navigate through the nodes of a graph or a tree data structure. 
